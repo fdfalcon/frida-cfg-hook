@@ -19,9 +19,6 @@ or
 python frida-cfg-hook.py calc.exe
 ```
 
-### Example output
-```
-```
 
 ### Dependencies
  * [pefile](https://github.com/erocarrera/pefile) 1.2.10-139
